@@ -14,7 +14,7 @@ STEP ".." : Sebagai penanda berapa *step* yang telah dilakukan oleh sang Robot.
 MOVE "..." : Berperan sebagai *output arah* gerak robot sebelumnya yang telah diinput.  
 POSITION (.,.) : Berperan sebagai *titik koordinat* Robot saat berada di Maze.  
 
-== Input yang tersedia == :
+== Input yang tersedia == :  
 'UP'   : Menggerakkan Robot ke atas dengan eksekusi y - 1.  
 'DOWN'   : Menggerakkan Robot ke bawah dengan eksekusi y + 1.  
 'RIGHT'   : Menggerakkan Robot ke samping kanan dengan eksekusi x + 1.  
